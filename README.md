@@ -5,6 +5,7 @@ Now Supports MMPool.org & Doge.HashFaster.com In A Multi-Pool Switching Model
 I've explained all of the user controls inside of the main program and given the option to control pool switching via Android GUI Prompt.
 
 QPython For Android: https://play.google.com/store/apps/details?id=com.hipipal.qpyplus
+
 QPython Homepage: http://qpython.com/
 
 ==============
