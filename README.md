@@ -8,6 +8,9 @@ QPython For Android: https://play.google.com/store/apps/details?id=com.hipipal.q
 
 QPython Homepage: http://qpython.com/
 
+Image Gallery From V-0.2
+http://imgur.com/a/etPo9/
+
 ==============
 Down &amp; Dirty Crypto Pool: Miner Status Display [Via Consolidated Web-API]
 
