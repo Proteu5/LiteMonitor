@@ -1,13 +1,21 @@
-Coming V-0.3
+Coming V-0.4
+- Android GUI Prompt For Pool Additions
+- Email Support ?
+- Background Process
+- Notification Bar Option vs. Droid.MakeToast vs. Alert Prompt
+- Bug Fixes (Assuming Respectively)
+- Maybe Full GUI, Not sure --> I Like It Lite
+
+V-0.3
+- Vibration Settings (With Pre Set Patterns)
+- Ease Of User Controls
+- Android GUI Prompt
 - MultiPool Support
 - Streamline Code
 - Use Of Classes
-- Format For Further Support
-- Email Support ?
-- Background Process
-- Notification Bar Option vs. Droid.MakeToast
-- Bug Fixes (Assuming Respectively)
-- Maybe GUI, Not sure --> I Like It Lite
+- Format For Further Support: Model Allows For Infinate Pool Additions
+- Updated To MIT
+- Added MMPool.Org Support
 
 V-0.2
 - Added Alert Stream
