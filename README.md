@@ -1,6 +1,10 @@
 LiteMonitor v0.3
 ============
+Now Supports MMPool.org & Doge.HashFaster.com In A Multi-Pool Switching Model
 
+I've explained all of the user controls inside of the main program and given the option to control pool switching via Android GUI Prompt.
+
+==============
 Down &amp; Dirty Crypto Pool: Miner Status Display [Via Consolidated Web-API]
 
 This is a Beta release. I know it works on Doge.Hashfast's pool.
